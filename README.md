@@ -1,16 +1,12 @@
-# ecommerce
+# Condition
 
-A new Flutter project.
+> 1. If user can't input e-mail address the login button should be hidden. 
+>>N.B: User have to must type a valid email address. Ex. (emailaddress@domain.com), If email not valid the button not visible. <br>
+> 2. After show login button user must have to type a password for login, otherwise it's give another error called "Enter your password".
+>>N.B: Password leanth must be 8 digit or more otherwise can't able to login. 
+> 3. When both conditions are true than user can able to login.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Example
+<img src="https://i.ibb.co/VTHKyjG/8001c663-05f4-4310-b72e-3ff879261825.jpg"/>
+<img src="https://i.ibb.co/ZcQ1nd1/c96ea64a-5fbf-4b4e-93e3-d16651425537.jpg"/>
+<img src="https://i.ibb.co/7QT2m24/f28991ca-4dfc-4e0b-af9c-dd3b8b377418.jpg"/>
